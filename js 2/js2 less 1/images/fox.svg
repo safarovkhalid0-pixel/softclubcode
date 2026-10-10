@@ -1,0 +1,41 @@
+<svg width="120" height="100" viewBox="0 0 120 100"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Гӯшҳо -->
+  <path d="M25 45 L25 12 Q25 5 32 10 L50 27"
+        fill="#ff6500" stroke="black" stroke-width="5"/>
+
+  <path d="M95 45 L95 12 Q95 5 88 10 L70 27"
+        fill="#ff6500" stroke="black" stroke-width="5"/>
+
+  <!-- Сари рӯбоҳ -->
+  <path d="M25 35
+           L40 25
+           L60 30
+           L80 25
+           L95 35
+           L88 65
+           L60 88
+           L32 65 Z"
+        fill="#ff6500"
+        stroke="black"
+        stroke-width="5"
+        stroke-linejoin="round"/>
+
+  <!-- Қисми сафеди рӯй -->
+  <path d="M25 45 L38 43 L32 65
+           L60 88 L88 65 L82 43 L95 45
+           L85 70 L60 93 L35 70 Z"
+        fill="white"
+        stroke="black"
+        stroke-width="4"/>
+
+  <!-- Чашмҳо -->
+  <circle cx="43" cy="48" r="5" fill="black"/>
+  <circle cx="77" cy="48" r="5" fill="black"/>
+
+  <!-- Бини -->
+  <path d="M52 67 Q60 62 68 67 L60 74 Z"
+        fill="black"/>
+
+</svg>
